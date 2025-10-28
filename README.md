@@ -46,7 +46,6 @@ python temperature-converter.py
 For Jupyter Notebooks (.ipynb files)
 To open and interact with the notebooks, start the Jupyter Notebook server:
 
-Bash
 
 jupyter notebook
 This will open a browser window. You can then click on any .ipynb file to open and run the cells interactively.
